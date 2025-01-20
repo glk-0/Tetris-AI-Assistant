@@ -10,6 +10,11 @@ A modified Tetris game that balances AI assistance with human decision-making, i
 
 ## Demo
 
+
+https://github.com/user-attachments/assets/969102d9-9b67-4e63-be79-c3fb938f2d9c
+
+
+
 ### Classic Tetris Mode (No AI Assistance):
 The original gameplay experience.
 
@@ -52,7 +57,7 @@ pip install -r requirements.txt
      ```bash
      python3 tetris_classic.py
      ```
-##Commands : 
+## Commands : 
 - 'e' : confirm selection
 - 'w' : up(selection in menu)
 - 's' : down(selection in menu)
